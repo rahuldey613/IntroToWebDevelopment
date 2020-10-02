@@ -1,6 +1,8 @@
 # An Introduction Towards Web Development
 This repository provides the examples and source materials used in the Intro To Web Dev course.
 
+<img src="web.jpg">
+
 ##  A Quick guide towards
 
 - HTML
